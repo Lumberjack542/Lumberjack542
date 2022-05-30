@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lumberjack542
-- 👀 I’m interested inprogramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on it company
 - 📫 How to reach me 
