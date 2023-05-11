@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on it company
 - 📫 How to reach me 
 - telegram https://t.me/vladikm
-- mail  vm542@mail.ru 
+- mail  542avy3@gmail.com
 
 <!---
 Lumberjack542/Lumberjack542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
