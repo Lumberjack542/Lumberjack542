@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - telegram https://t.me/vladikm
 - mail  542avy3@gmail.com
-
+- codewars https://www.codewars.com/users/Lumberjack542
 <!---
 Lumberjack542/Lumberjack542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
